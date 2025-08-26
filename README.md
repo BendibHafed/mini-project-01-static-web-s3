@@ -2,6 +2,10 @@
 
 This project is designed to provide hands-on experience with deploying a static website using Amazon S3 and Terraform. The goal is to create an S3 bucket, host files for the static website, and manage access permissions and policies. This project is a great opportunity to learn about AWS S3, Terraform, and the principles of Infrastructure as Code (IaC). Make sure to use Terraform for as many resources as possible, and remember to delete all the resources at the end of the project to avoid unnecessary costs.
 
+## ## Project Structure
+
+<img src="assets/s3-static-website.png" alt="deploy-vpc-ec2-instance" width="700"/>
+
 ## Desired Outcome
 
 1. Deploy an S3 bucket that will host the files for the static website.
